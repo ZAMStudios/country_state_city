@@ -24,7 +24,7 @@ class Country {
   static Country fromJson(Map<String, dynamic> json) => Country(
         name: json['name'],
         isoCode: json['isoCode'],
-        phoneCode: json['phoneCode'],
+        phoneCode: json['phonecode'],
         currency: json['currency'],
         flag: json['flag'],
         latitude: json['latitude'],

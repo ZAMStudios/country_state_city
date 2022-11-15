@@ -14,7 +14,6 @@ void main() async {
   final country = await getCountryFromCode('AF');
   if (country != null) {
     final countryStates = await getStatesOfCountry(country.isoCode);
-
     final countryCitis = await getCountryCities(country.isoCode);
   }
 }
