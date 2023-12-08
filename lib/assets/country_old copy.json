@@ -3599,24 +3599,6 @@
         ]
     },
     {
-        "isoCode": "NC",
-        "name": "New Caledonia",
-        "phonecode": "687",
-        "flag": "🇳🇨",
-        "currency": "XPF",
-        "latitude": "-21.50000000",
-        "longitude": "165.50000000",
-        "timezones": [
-            {
-                "zoneName": "Pacific\/Noumea",
-                "gmtOffset": 39600,
-                "gmtOffsetName": "UTC+11:00",
-                "abbreviation": "NCT",
-                "tzName": "New Caledonia Time"
-            }
-        ]
-    },
-    {
         "isoCode": "NZ",
         "name": "New Zealand",
         "phonecode": "64",
@@ -3638,6 +3620,44 @@
                 "gmtOffsetName": "UTC+13:45",
                 "abbreviation": "CHAST",
                 "tzName": "Chatham Standard Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "NG",
+        "name": "Nigeria",
+        "phonecode": "234",
+        "flag": "🇳🇬",
+        "currency": "NGN",
+        "latitude": "10.00000000",
+        "longitude": "8.00000000",
+        "timezones": [
+            {
+                "zoneName": "Africa\/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        ]
+    },
+
+
+    {
+        "isoCode": "NC",
+        "name": "New Caledonia",
+        "phonecode": "687",
+        "flag": "🇳🇨",
+        "currency": "XPF",
+        "latitude": "-21.50000000",
+        "longitude": "165.50000000",
+        "timezones": [
+            {
+                "zoneName": "Pacific\/Noumea",
+                "gmtOffset": 39600,
+                "gmtOffsetName": "UTC+11:00",
+                "abbreviation": "NCT",
+                "tzName": "New Caledonia Time"
             }
         ]
     },
@@ -3670,24 +3690,6 @@
         "timezones": [
             {
                 "zoneName": "Africa\/Niamey",
-                "gmtOffset": 3600,
-                "gmtOffsetName": "UTC+01:00",
-                "abbreviation": "WAT",
-                "tzName": "West Africa Time"
-            }
-        ]
-    },
-    {
-        "isoCode": "NG",
-        "name": "Nigeria",
-        "phonecode": "234",
-        "flag": "🇳🇬",
-        "currency": "NGN",
-        "latitude": "10.00000000",
-        "longitude": "8.00000000",
-        "timezones": [
-            {
-                "zoneName": "Africa\/Lagos",
                 "gmtOffset": 3600,
                 "gmtOffsetName": "UTC+01:00",
                 "abbreviation": "WAT",
@@ -4655,24 +4657,6 @@
         ]
     },
     {
-        "isoCode": "ZA",
-        "name": "South Africa",
-        "phonecode": "27",
-        "flag": "🇿🇦",
-        "currency": "ZAR",
-        "latitude": "-29.00000000",
-        "longitude": "24.00000000",
-        "timezones": [
-            {
-                "zoneName": "Africa\/Johannesburg",
-                "gmtOffset": 7200,
-                "gmtOffsetName": "UTC+02:00",
-                "abbreviation": "SAST",
-                "tzName": "South African Standard Time"
-            }
-        ]
-    },
-    {
         "isoCode": "GS",
         "name": "South Georgia",
         "phonecode": "",
@@ -4708,38 +4692,7 @@
             }
         ]
     },
-    {
-        "isoCode": "ES",
-        "name": "Spain",
-        "phonecode": "34",
-        "flag": "🇪🇸",
-        "currency": "EUR",
-        "latitude": "40.00000000",
-        "longitude": "-4.00000000",
-        "timezones": [
-            {
-                "zoneName": "Africa\/Ceuta",
-                "gmtOffset": 3600,
-                "gmtOffsetName": "UTC+01:00",
-                "abbreviation": "CET",
-                "tzName": "Central European Time"
-            },
-            {
-                "zoneName": "Atlantic\/Canary",
-                "gmtOffset": 0,
-                "gmtOffsetName": "UTC±00",
-                "abbreviation": "WET",
-                "tzName": "Western European Time"
-            },
-            {
-                "zoneName": "Europe\/Madrid",
-                "gmtOffset": 3600,
-                "gmtOffsetName": "UTC+01:00",
-                "abbreviation": "CET",
-                "tzName": "Central European Time"
-            }
-        ]
-    },
+
     {
         "isoCode": "LK",
         "name": "Sri Lanka",
@@ -4827,6 +4780,56 @@
                 "gmtOffsetName": "UTC+02:00",
                 "abbreviation": "SAST",
                 "tzName": "South African Standard Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "ZA",
+        "name": "South Africa",
+        "phonecode": "27",
+        "flag": "🇿🇦",
+        "currency": "ZAR",
+        "latitude": "-29.00000000",
+        "longitude": "24.00000000",
+        "timezones": [
+            {
+                "zoneName": "Africa\/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "ES",
+        "name": "Spain",
+        "phonecode": "34",
+        "flag": "🇪🇸",
+        "currency": "EUR",
+        "latitude": "40.00000000",
+        "longitude": "-4.00000000",
+        "timezones": [
+            {
+                "zoneName": "Africa\/Ceuta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            },
+            {
+                "zoneName": "Atlantic\/Canary",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            },
+            {
+                "zoneName": "Europe\/Madrid",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
             }
         ]
     },

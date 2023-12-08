@@ -521,5 +521,1085 @@
                 "tzName": "Australian Eastern Daylight Saving Time"
             }
         ]
+    },
+    {
+        "isoCode": "AT",
+        "name": "Austria",
+        "phonecode": "43",
+        "flag": "🇦🇹",
+        "currency": "EUR",
+        "latitude": "47.33333333",
+        "longitude": "13.33333333",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Vienna",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "BE",
+        "name": "Belgium",
+        "phonecode": "32",
+        "flag": "🇧🇪",
+        "currency": "EUR",
+        "latitude": "50.83333333",
+        "longitude": "4.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Brussels",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "BR",
+        "name": "Brazil",
+        "phonecode": "55",
+        "flag": "🇧🇷",
+        "currency": "BRL",
+        "latitude": "-10.00000000",
+        "longitude": "-55.00000000",
+        "timezones": [
+            {
+                "zoneName": "America\/Araguaina",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Bahia",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Belem",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Boa_Vista",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AMT",
+                "tzName": "Amazon Time (Brazil)[3"
+            },
+            {
+                "zoneName": "America\/Campo_Grande",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AMT",
+                "tzName": "Amazon Time (Brazil)[3"
+            },
+            {
+                "zoneName": "America\/Cuiaba",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasilia Time"
+            },
+            {
+                "zoneName": "America\/Eirunepe",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "ACT",
+                "tzName": "Acre Time"
+            },
+            {
+                "zoneName": "America\/Fortaleza",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Maceio",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Manaus",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AMT",
+                "tzName": "Amazon Time (Brazil)"
+            },
+            {
+                "zoneName": "America\/Noronha",
+                "gmtOffset": -7200,
+                "gmtOffsetName": "UTC-02:00",
+                "abbreviation": "FNT",
+                "tzName": "Fernando de Noronha Time"
+            },
+            {
+                "zoneName": "America\/Porto_Velho",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AMT",
+                "tzName": "Amazon Time (Brazil)[3"
+            },
+            {
+                "zoneName": "America\/Recife",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Rio_Branco",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "ACT",
+                "tzName": "Acre Time"
+            },
+            {
+                "zoneName": "America\/Santarem",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Sao_Paulo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            }
+        ]
+    },
+    {
+    "isoCode": "BG",
+    "name": "Bulgaria",
+    "phonecode": "359",
+    "flag": "🇧🇬",
+    "currency": "BGN",
+    "latitude": "43.00000000",
+    "longitude": "25.00000000",
+    "timezones": [
+        {
+            "zoneName": "Europe\/Sofia",
+            "gmtOffset": 7200,
+            "gmtOffsetName": "UTC+02:00",
+            "abbreviation": "EET",
+            "tzName": "Eastern European Time"
+        }
+    ]
+},
+    {
+        "isoCode": "HR",
+        "name": "Croatia (Hrvatska)",
+        "phonecode": "385",
+        "flag": "🇭🇷",
+        "currency": "HRK",
+        "latitude": "45.16666666",
+        "longitude": "15.50000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Zagreb",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "CY",
+        "name": "Cyprus",
+        "phonecode": "357",
+        "flag": "🇨🇾",
+        "currency": "EUR",
+        "latitude": "35.00000000",
+        "longitude": "33.00000000",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Famagusta",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            },
+            {
+                "zoneName": "Asia\/Nicosia",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "CZ",
+        "name": "Czech Republic",
+        "phonecode": "420",
+        "flag": "🇨🇿",
+        "currency": "CZK",
+        "latitude": "49.75000000",
+        "longitude": "15.50000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Prague",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "DK",
+        "name": "Denmark",
+        "phonecode": "45",
+        "flag": "🇩🇰",
+        "currency": "DKK",
+        "latitude": "56.00000000",
+        "longitude": "10.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Copenhagen",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "EE",
+        "name": "Estonia",
+        "phonecode": "372",
+        "flag": "🇪🇪",
+        "currency": "EUR",
+        "latitude": "59.00000000",
+        "longitude": "26.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Tallinn",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "FI",
+        "name": "Finland",
+        "phonecode": "358",
+        "flag": "🇫🇮",
+        "currency": "EUR",
+        "latitude": "64.00000000",
+        "longitude": "26.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Helsinki",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "FR",
+        "name": "France",
+        "phonecode": "33",
+        "flag": "🇫🇷",
+        "currency": "EUR",
+        "latitude": "46.00000000",
+        "longitude": "2.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Paris",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "DE",
+        "name": "Germany",
+        "phonecode": "49",
+        "flag": "🇩🇪",
+        "currency": "EUR",
+        "latitude": "51.00000000",
+        "longitude": "9.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Berlin",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            },
+            {
+                "zoneName": "Europe\/Busingen",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "GH",
+        "name": "Ghana",
+        "phonecode": "233",
+        "flag": "🇬🇭",
+        "currency": "GHS",
+        "latitude": "8.00000000",
+        "longitude": "-2.00000000",
+        "timezones": [
+            {
+                "zoneName": "Africa\/Accra",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "GI",
+        "name": "Gibraltar",
+        "phonecode": "350",
+        "flag": "🇬🇮",
+        "currency": "GIP",
+        "latitude": "36.13333333",
+        "longitude": "-5.35000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Gibraltar",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "GR",
+        "name": "Greece",
+        "phonecode": "30",
+        "flag": "🇬🇷",
+        "currency": "EUR",
+        "latitude": "39.00000000",
+        "longitude": "22.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Athens",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "HK",
+        "name": "Hong Kong S.A.R.",
+        "phonecode": "852",
+        "flag": "🇭🇰",
+        "currency": "HKD",
+        "latitude": "22.25000000",
+        "longitude": "114.16666666",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Hong_Kong",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "HKT",
+                "tzName": "Hong Kong Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "HU",
+        "name": "Hungary",
+        "phonecode": "36",
+        "flag": "🇭🇺",
+        "currency": "HUF",
+        "latitude": "47.00000000",
+        "longitude": "20.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Budapest",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "IN",
+        "name": "India",
+        "phonecode": "91",
+        "flag": "🇮🇳",
+        "currency": "INR",
+        "latitude": "20.00000000",
+        "longitude": "77.00000000",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Kolkata",
+                "gmtOffset": 19800,
+                "gmtOffsetName": "UTC+05:30",
+                "abbreviation": "IST",
+                "tzName": "Indian Standard Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "ID",
+        "name": "Indonesia",
+        "phonecode": "62",
+        "flag": "🇮🇩",
+        "currency": "IDR",
+        "latitude": "-5.00000000",
+        "longitude": "120.00000000",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Jakarta",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "WIB",
+                "tzName": "Western Indonesian Time"
+            },
+            {
+                "zoneName": "Asia\/Jayapura",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "WIT",
+                "tzName": "Eastern Indonesian Time"
+            },
+            {
+                "zoneName": "Asia\/Makassar",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "WITA",
+                "tzName": "Central Indonesia Time"
+            },
+            {
+                "zoneName": "Asia\/Pontianak",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "WIB",
+                "tzName": "Western Indonesian Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "IE",
+        "name": "Ireland",
+        "phonecode": "353",
+        "flag": "🇮🇪",
+        "currency": "EUR",
+        "latitude": "53.00000000",
+        "longitude": "-8.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Dublin",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "IT",
+        "name": "Italy",
+        "phonecode": "39",
+        "flag": "🇮🇹",
+        "currency": "EUR",
+        "latitude": "42.83333333",
+        "longitude": "12.83333333",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Rome",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "JP",
+        "name": "Japan",
+        "phonecode": "81",
+        "flag": "🇯🇵",
+        "currency": "JPY",
+        "latitude": "36.00000000",
+        "longitude": "138.00000000",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Tokyo",
+                "gmtOffset": 32400,
+                "gmtOffsetName": "UTC+09:00",
+                "abbreviation": "JST",
+                "tzName": "Japan Standard Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "KE",
+        "name": "Kenya",
+        "phonecode": "254",
+        "flag": "🇰🇪",
+        "currency": "KES",
+        "latitude": "1.00000000",
+        "longitude": "38.00000000",
+        "timezones": [
+            {
+                "zoneName": "Africa\/Nairobi",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "EAT",
+                "tzName": "East Africa Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "LI",
+        "name": "Liechtenstein",
+        "phonecode": "423",
+        "flag": "🇱🇮",
+        "currency": "CHF",
+        "latitude": "47.26666666",
+        "longitude": "9.53333333",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Vaduz",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "LT",
+        "name": "Lithuania",
+        "phonecode": "370",
+        "flag": "🇱🇹",
+        "currency": "EUR",
+        "latitude": "56.00000000",
+        "longitude": "24.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Vilnius",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "LU",
+        "name": "Luxembourg",
+        "phonecode": "352",
+        "flag": "🇱🇺",
+        "currency": "EUR",
+        "latitude": "49.75000000",
+        "longitude": "6.16666666",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Luxembourg",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "MY",
+        "name": "Malaysia",
+        "phonecode": "60",
+        "flag": "🇲🇾",
+        "currency": "MYR",
+        "latitude": "2.50000000",
+        "longitude": "112.50000000",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Kuala_Lumpur",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "MYT",
+                "tzName": "Malaysia Time"
+            },
+            {
+                "zoneName": "Asia\/Kuching",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "MYT",
+                "tzName": "Malaysia Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "MT",
+        "name": "Malta",
+        "phonecode": "356",
+        "flag": "🇲🇹",
+        "currency": "EUR",
+        "latitude": "35.83333333",
+        "longitude": "14.58333333",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Malta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "MX",
+        "name": "Mexico",
+        "phonecode": "52",
+        "flag": "🇲🇽",
+        "currency": "MXN",
+        "latitude": "23.00000000",
+        "longitude": "-102.00000000",
+        "timezones": [
+            {
+                "zoneName": "America\/Bahia_Banderas",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Cancun",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Chihuahua",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Hermosillo",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Matamoros",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Mazatlan",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Merida",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Mexico_City",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Monterrey",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Ojinaga",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Tijuana",
+                "gmtOffset": -28800,
+                "gmtOffsetName": "UTC-08:00",
+                "abbreviation": "PST",
+                "tzName": "Pacific Standard Time (North America"
+            }
+        ]
+    },
+    {
+        "isoCode": "NL",
+        "name": "Netherlands The",
+        "phonecode": "31",
+        "flag": "🇳🇱",
+        "currency": "EUR",
+        "latitude": "52.50000000",
+        "longitude": "5.75000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Amsterdam",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "NZ",
+        "name": "New Zealand",
+        "phonecode": "64",
+        "flag": "🇳🇿",
+        "currency": "NZD",
+        "latitude": "-41.00000000",
+        "longitude": "174.00000000",
+        "timezones": [
+            {
+                "zoneName": "Pacific\/Auckland",
+                "gmtOffset": 46800,
+                "gmtOffsetName": "UTC+13:00",
+                "abbreviation": "NZDT",
+                "tzName": "New Zealand Daylight Time"
+            },
+            {
+                "zoneName": "Pacific\/Chatham",
+                "gmtOffset": 49500,
+                "gmtOffsetName": "UTC+13:45",
+                "abbreviation": "CHAST",
+                "tzName": "Chatham Standard Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "NG",
+        "name": "Nigeria",
+        "phonecode": "234",
+        "flag": "🇳🇬",
+        "currency": "NGN",
+        "latitude": "10.00000000",
+        "longitude": "8.00000000",
+        "timezones": [
+            {
+                "zoneName": "Africa\/Lagos",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "NO",
+        "name": "Norway",
+        "phonecode": "47",
+        "flag": "🇳🇴",
+        "currency": "NOK",
+        "latitude": "62.00000000",
+        "longitude": "10.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Oslo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "PL",
+        "name": "Poland",
+        "phonecode": "48",
+        "flag": "🇵🇱",
+        "currency": "PLN",
+        "latitude": "52.00000000",
+        "longitude": "20.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Warsaw",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "PT",
+        "name": "Portugal",
+        "phonecode": "351",
+        "flag": "🇵🇹",
+        "currency": "EUR",
+        "latitude": "39.50000000",
+        "longitude": "-8.00000000",
+        "timezones": [
+            {
+                "zoneName": "Atlantic\/Azores",
+                "gmtOffset": -3600,
+                "gmtOffsetName": "UTC-01:00",
+                "abbreviation": "AZOT",
+                "tzName": "Azores Standard Time"
+            },
+            {
+                "zoneName": "Atlantic\/Madeira",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            },
+            {
+                "zoneName": "Europe\/Lisbon",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "RO",
+        "name": "Romania",
+        "phonecode": "40",
+        "flag": "🇷🇴",
+        "currency": "RON",
+        "latitude": "46.00000000",
+        "longitude": "25.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Bucharest",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "EET",
+                "tzName": "Eastern European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "SG",
+        "name": "Singapore",
+        "phonecode": "65",
+        "flag": "🇸🇬",
+        "currency": "SGD",
+        "latitude": "1.36666666",
+        "longitude": "103.80000000",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Singapore",
+                "gmtOffset": 28800,
+                "gmtOffsetName": "UTC+08:00",
+                "abbreviation": "SGT",
+                "tzName": "Singapore Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "SK",
+        "name": "Slovakia",
+        "phonecode": "421",
+        "flag": "🇸🇰",
+        "currency": "EUR",
+        "latitude": "48.66666666",
+        "longitude": "19.50000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Bratislava",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "SI",
+        "name": "Slovenia",
+        "phonecode": "386",
+        "flag": "🇸🇮",
+        "currency": "EUR",
+        "latitude": "46.11666666",
+        "longitude": "14.81666666",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Ljubljana",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "ZA",
+        "name": "South Africa",
+        "phonecode": "27",
+        "flag": "🇿🇦",
+        "currency": "ZAR",
+        "latitude": "-29.00000000",
+        "longitude": "24.00000000",
+        "timezones": [
+            {
+                "zoneName": "Africa\/Johannesburg",
+                "gmtOffset": 7200,
+                "gmtOffsetName": "UTC+02:00",
+                "abbreviation": "SAST",
+                "tzName": "South African Standard Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "ES",
+        "name": "Spain",
+        "phonecode": "34",
+        "flag": "🇪🇸",
+        "currency": "EUR",
+        "latitude": "40.00000000",
+        "longitude": "-4.00000000",
+        "timezones": [
+            {
+                "zoneName": "Africa\/Ceuta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            },
+            {
+                "zoneName": "Atlantic\/Canary",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            },
+            {
+                "zoneName": "Europe\/Madrid",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "SE",
+        "name": "Sweden",
+        "phonecode": "46",
+        "flag": "🇸🇪",
+        "currency": "SEK",
+        "latitude": "62.00000000",
+        "longitude": "15.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Stockholm",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "CH",
+        "name": "Switzerland",
+        "phonecode": "41",
+        "flag": "🇨🇭",
+        "currency": "CHF",
+        "latitude": "47.00000000",
+        "longitude": "8.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "TH",
+        "name": "Thailand",
+        "phonecode": "66",
+        "flag": "🇹🇭",
+        "currency": "THB",
+        "latitude": "15.00000000",
+        "longitude": "100.00000000",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Bangkok",
+                "gmtOffset": 25200,
+                "gmtOffsetName": "UTC+07:00",
+                "abbreviation": "ICT",
+                "tzName": "Indochina Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "AE",
+        "name": "United Arab Emirates",
+        "phonecode": "971",
+        "flag": "🇦🇪",
+        "currency": "AED",
+        "latitude": "24.00000000",
+        "longitude": "54.00000000",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Dubai",
+                "gmtOffset": 14400,
+                "gmtOffsetName": "UTC+04:00",
+                "abbreviation": "GST",
+                "tzName": "Gulf Standard Time"
+            }
+        ]
+    },
+    {
+        "isoCode": "GB",
+        "name": "United Kingdom",
+        "phonecode": "44",
+        "flag": "🇬🇧",
+        "currency": "GBP",
+        "latitude": "54.00000000",
+        "longitude": "-2.00000000",
+        "timezones": [
+            {
+                "zoneName": "Europe\/London",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        ]
     }
 ]
